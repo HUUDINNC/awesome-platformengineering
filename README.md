@@ -10,7 +10,6 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Índice
 
-* [Empresas brasileiras](#empresas-brasileiras)
 * [Posts, Artigos e Podcasts](#posts-e-artigos)
   * [Artigos](#artigos)
   * [Podcasts](#podcasts)
@@ -19,19 +18,14 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * [Comunidades](#comunidades-podcasts-e-eventos)
 * [Cursos e trilhas de aprendizado](#cursos-e-trilhas-de-aprendizado)
 * [Ferramentas e referências](#ferramentas-e-referências)
+* [Empresas brasileiras](#empresas-brasileiras)
 * [Outras listas “awesome”](#outras-listas-awesome)
 * [Como contribuir](#como-contribuir)
   * [1. Via Pull Request (recomendado)](#1-via-pull-request-recomendado)
   * [2. Via Issue (forma simples e rápida)](#2-via-issue-forma-simples-e-rápida)
   * [Dúvidas e sugestões](#dúvidas-e-sugestões)
 
----
 
-## Empresas brasileiras
-
-> Empresas brasileiras com iniciativas públicas de Platform Engineering, IDP ou DevEx.
-
-* *(em construção — envie um PR ou abra uma issue sugerindo empresas com links para posts, talks ou vagas relacionadas)*
 
 ---
 
@@ -78,8 +72,12 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 > Comunidades, grupos, meetups, podcasts e eventos brasileiros sobre Platform Engineering e Developer Experience.
 
-* *(em construção — contribua via PR ou issue)*
-
+* 👥 [Developer Experience | Platform Rocks](https://www.platform.rocks/pt/communities/developer-experience)  
+* 👥 [Platform as a Service | Platform Rocks](https://www.platform.rocks/pt/communities/platform-as-a-service)  
+* 👥 [Cloud | Platform Rocks](https://www.platform.rocks/pt/communities/cloud)
+* 👥 [DevOps | Platform Rocks](https://www.platform.rocks/pt/communities/devops)
+* 👥 [Observability | Platform Rocks](https://www.platform.rocks/pt/communities/observability)
+* 👥 [Random | Platform Rocks](https://www.platform.rocks/pt/communities/platform-engineering-random)
 
 ---
 
@@ -96,6 +94,14 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 > Ferramentas, frameworks, repositórios e materiais úteis.
 
 * *(em construção — contribua via PR ou issue)*
+
+---
+
+## Empresas brasileiras
+
+> Empresas brasileiras com iniciativas públicas de Platform Engineering, IDP ou DevEx.
+
+* *(em construção — envie um PR ou abra uma issue sugerindo empresas que adotam DevEx/Platform Engineering - NOME e Link)*
 
 ---
 
