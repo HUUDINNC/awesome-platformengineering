@@ -114,7 +114,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * *(em construção — envie um PR ou abra uma issue sugerindo empresas que adotam DevEx/Platform Engineering - NOME e Link)*
 
 
-## Para acompanhar
+## Para Acompanhar
 
 > Lista de newsletters, podcasts e outros criadores para acompanhar
 
@@ -123,6 +123,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 🎙️ [Podcast - LowOps Channel](https://www.youtube.com/@LowOps-Channel)
 * 🎙️ [Podcast - ProdOps](https://www.youtube.com/@ProdOps)
 * 📃 [Newsletter - Platform Rocks](https://www.linkedin.com/newsletters/platform-rocks-7131371871328980992/)
+* 📽️ [Youtube - LINUXTips](https://www.youtube.com/@LinuxTips)
 
 ---
 
