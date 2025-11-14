@@ -61,7 +61,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 📽️ [Case QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzc)
 * 📽️ [Case Banco do Brasil](https://www.youtube.com/watch?v=xqvNrDxZ2cM)
 * 📽️ [Case Mercado Livre](https://www.youtube.com/watch?v=aFJTxKak6sM)  
-* 📽️ [Case Banco Pan](https://www.youtube.com/watch?v=AmzS1IGsfC4)  
+* 📽️ [Case Banco Pan](https://www.youtube.com/watch?v=AmzS1IGsfC4)
 
 ---
 
@@ -102,6 +102,14 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 > Empresas brasileiras com iniciativas públicas de Platform Engineering, IDP ou DevEx.
 
 * *(em construção — envie um PR ou abra uma issue sugerindo empresas que adotam DevEx/Platform Engineering - NOME e Link)*
+
+
+## Para acompanhar
+
+> Lista de newsletters, podcasts e outros criadores para acompanhar
+
+* [Newsletter Platform Rocks](https://www.linkedin.com/newsletters/platform-rocks-7131371871328980992/)
+* [Podcast Kubicast](https://www.youtube.com/playlist?list=PLtjfMRpJlYQ0w-UUmr9EUE9aGaHenfK7N)
 
 ---
 
