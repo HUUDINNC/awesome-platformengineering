@@ -16,16 +16,14 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
   * [Vídeos](#vídeos)
 * [Cases](#cases)
 * [Comunidades](#comunidades-podcasts-e-eventos)
+* [Ferramentas, Repositórios e referências](#ferramentas-repositórios-e-referências)
 * [Cursos e trilhas de aprendizado](#cursos-e-trilhas-de-aprendizado)
-* [Ferramentas e referências](#ferramentas-e-referências)
 * [Empresas brasileiras](#empresas-brasileiras)
 * [Outras listas “awesome”](#outras-listas-awesome)
 * [Como contribuir](#como-contribuir)
   * [1. Via Pull Request (recomendado)](#1-via-pull-request-recomendado)
   * [2. Via Issue (forma simples e rápida)](#2-via-issue-forma-simples-e-rápida)
   * [Dúvidas e sugestões](#dúvidas-e-sugestões)
-
-
 
 ---
 
@@ -44,12 +42,10 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 🎤 [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef)
 * 🎤 [Tech Leadership Rocks - Plataforma de desenvolvedores no QuintoAndar](https://techleadership.rocks/2023/10/22/plataforma-de-desenvolvedores-com-victor-fonseca-gabriel-dantas-leo-vieira-e-caio-queiroz/)
 
-
 ### Vídeos
 
 * 📽️ [Tech Talks - Como desenvolvemos o developer portal usando o Backstage.io](https://www.youtube.com/watch?v=Y57gUwb1v3g)
 * 📽️ [Platform Talks - Conhecendo a Internal Developer Platform do QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzcX8oDp1DwUeI)
-
 
 ---
 
@@ -81,14 +77,6 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ---
 
-## Cursos e trilhas de aprendizado
-
-> Trilhas, cursos e formações relevantes para quem quer aprender Platform Engineering.
-
-* *(em construção — contribua via PR ou issue)*
-
----
-
 ## Ferramentas, repositórios e referências
 
 > Ferramentas, frameworks, repositórios e materiais úteis.
@@ -97,6 +85,14 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * [A ready-to-use environment for modern platform engineering experimentation, combining (B)ackstage, (A)rgoCD, (C)rossplane, and (K)yverno! ](https://github.com/wnqueiroz/platform-engineering-backstack)
 * [Alternative Backstage Distro | VeeCode](https://github.com/veecode-platform/devportal-distro)
 * [Backstage Plugins Made in Brazil | VeeCode](https://github.com/veecode-platform/platform-backstage-plugins?tab=readme-ov-file)
+
+---
+
+## Cursos e trilhas de aprendizado
+
+> Trilhas, cursos e formações relevantes para quem quer aprender Platform Engineering.
+
+* *(em construção — contribua via PR ou issue)*
 
 ---
 
