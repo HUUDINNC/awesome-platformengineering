@@ -36,6 +36,8 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 📃 [How we are improving developer experience at QuintoAndar with backstage.io - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * 📃 [How we are creating a knowledge base on QuintoAndar with an Open Source Q&A plugin on Backstage - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-creating-a-knowledge-base-on-quintoandar-with-an-open-source-q-a-plugin-on-backstage-279faf4d6f61)
 * 📃 [Platform Engineering não deveria ser tão complicado e vou usar League of Legends para te explicar](https://medium.com/@_gdantas/platform-engineering-n%C3%A3o-deveria-ser-t%C3%A3o-complicado-e-vou-usar-league-of-legends-para-te-explicar-0c81b296473e)
+* *(em construção — contribua via PR ou issue)*
+
 
 ### Podcasts
 
@@ -43,11 +45,15 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 🎤 [Tech Leadership Rocks - Plataforma de desenvolvedores no QuintoAndar](https://techleadership.rocks/2023/10/22/plataforma-de-desenvolvedores-com-victor-fonseca-gabriel-dantas-leo-vieira-e-caio-queiroz/)
 * 🎤 [Escovando Bits - #68 O que é Engenharia de Plataforma? ft. Gui Santos](https://open.spotify.com/episode/1nGLEAEEkbeBzBRc8YBvza)
 * 🎤 [Hipsters Ponto Tech - #452 Desvendando a Engenharia de Plataforma](https://www.hipsters.tech/desvendando-a-engenharia-de-plataforma-hipsters-ponto-tech-452/)
+* *(em construção — contribua via PR ou issue)*
+
 
 ### Vídeos
 
 * 📽️ [Tech Talks - Como desenvolvemos o developer portal usando o Backstage.io](https://www.youtube.com/watch?v=Y57gUwb1v3g)
 * 📽️ [Platform Talks - Conhecendo a Internal Developer Platform do QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzcX8oDp1DwUeI)
+* *(em construção — contribua via PR ou issue)*
+
 
 ---
 
@@ -62,6 +68,8 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 📽️ [Case Banco do Brasil](https://www.youtube.com/watch?v=xqvNrDxZ2cM)
 * 📽️ [Case Mercado Livre](https://www.youtube.com/watch?v=aFJTxKak6sM)  
 * 📽️ [Case Banco Pan](https://www.youtube.com/watch?v=AmzS1IGsfC4)
+* *(em construção — contribua via PR ou issue)*
+
 
 ---
 
@@ -75,6 +83,8 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 👥 [DevOps | Platform Rocks](https://www.platform.rocks/pt/communities/devops)
 * 👥 [Observability | Platform Rocks](https://www.platform.rocks/pt/communities/observability)
 * 👥 [Random | Platform Rocks](https://www.platform.rocks/pt/communities/platform-engineering-random)
+* *(em construção — contribua via PR ou issue)*
+
 
 ---
 
@@ -82,10 +92,10 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 > Ferramentas, frameworks, repositórios e materiais úteis.
 
+* 📦 [A ready-to-use environment for modern platform engineering experimentation, combining (B)ackstage, (A)rgoCD, (C)rossplane, and (K)yverno! ](https://github.com/wnqueiroz/platform-engineering-backstack)
+* 📦 [Alternative Backstage Distro | VeeCode](https://github.com/veecode-platform/devportal-distro)
+* 📦 [Backstage Plugins Made in Brazil | VeeCode](https://github.com/veecode-platform/platform-backstage-plugins?tab=readme-ov-file)
 * *(em construção — contribua via PR ou issue)*
-* [A ready-to-use environment for modern platform engineering experimentation, combining (B)ackstage, (A)rgoCD, (C)rossplane, and (K)yverno! ](https://github.com/wnqueiroz/platform-engineering-backstack)
-* [Alternative Backstage Distro | VeeCode](https://github.com/veecode-platform/devportal-distro)
-* [Backstage Plugins Made in Brazil | VeeCode](https://github.com/veecode-platform/platform-backstage-plugins?tab=readme-ov-file)
 
 ---
 
