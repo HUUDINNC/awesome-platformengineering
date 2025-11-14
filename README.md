@@ -94,6 +94,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 > Ferramentas, frameworks, repositórios e materiais úteis.
 
 * *(em construção — contribua via PR ou issue)*
+* [A ready-to-use environment for modern platform engineering experimentation, combining (B)ackstage, (A)rgoCD, (C)rossplane, and (K)yverno! ](https://github.com/wnqueiroz/platform-engineering-backstack)
 
 ---
 
