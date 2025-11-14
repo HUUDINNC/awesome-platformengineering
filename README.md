@@ -31,7 +31,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Empresas brasileiras
 
-> **Placeholder:** Empresas brasileiras com iniciativas públicas de Platform Engineering, IDP ou DevEx.
+> Empresas brasileiras com iniciativas públicas de Platform Engineering, IDP ou DevEx.
 
 * *(em construção — envie um PR ou abra uma issue sugerindo empresas com links para posts, talks ou vagas relacionadas)*
 
