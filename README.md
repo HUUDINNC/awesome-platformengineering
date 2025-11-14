@@ -63,7 +63,14 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 > Estudos de caso públicos de empresas brasileiras adotando Platform Engineering.
 
-* *(em construção — contribua via PR ou issue)*
+* [Case Stone](https://www.youtube.com/watch?v=xACNR0cBzTQ)
+* [Case Sicredi](https://www.youtube.com/watch?v=2A6NYsDyoX8)
+* [Case Natura](https://www.youtube.com/watch?v=ogxX9exj5uk)
+* [Case QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzc)
+* [Case Banco do Brasil](https://www.youtube.com/watch?v=xqvNrDxZ2cM)
+* [Case Banco do Brasil](https://www.youtube.com/watch?v=xqvNrDxZ2cM)
+* [Case Mercado Livre](https://www.youtube.com/watch?v=aFJTxKak6sM)  
+* [Case Banco Pan](https://www.youtube.com/watch?v=AmzS1IGsfC4)  
 
 ---
 
@@ -84,7 +91,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ---
 
-## Ferramentas e referências
+## Ferramentas, repositórios e referências
 
 > Ferramentas, frameworks, repositórios e materiais úteis.
 
