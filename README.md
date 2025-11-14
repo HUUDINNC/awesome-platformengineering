@@ -4,7 +4,7 @@
 
 Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineering, Internal Developer Platforms (IDP) e Developer Experience com foco no ecossistema brasileiro.
 
-> Objetivo: ser um ponto de partida prático para quem quer estudar, implementar ou evoluir Platform Engineering no Brasil.
+> Objetivo: ser um ponto de partida prático para quem quer estudar, implementar ou evoluir Platform Engineering.
 
 ---
 
